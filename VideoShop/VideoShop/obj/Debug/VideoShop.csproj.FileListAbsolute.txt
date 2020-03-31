@@ -1,0 +1,12 @@
+G:\Университет\3 курс\2 семестър\TSPProject\VideoShop\VideoShop\bin\Debug\VideoShop.exe.config
+G:\Университет\3 курс\2 семестър\TSPProject\VideoShop\VideoShop\bin\Debug\VideoShop.exe
+G:\Университет\3 курс\2 семестър\TSPProject\VideoShop\VideoShop\bin\Debug\VideoShop.pdb
+G:\Университет\3 курс\2 семестър\TSPProject\VideoShop\VideoShop\obj\Debug\VideoShop.csprojAssemblyReference.cache
+G:\Университет\3 курс\2 семестър\TSPProject\VideoShop\VideoShop\obj\Debug\VideoShop.Login.resources
+G:\Университет\3 курс\2 семестър\TSPProject\VideoShop\VideoShop\obj\Debug\VideoShop.Properties.Resources.resources
+G:\Университет\3 курс\2 семестър\TSPProject\VideoShop\VideoShop\obj\Debug\VideoShop.csproj.GenerateResource.cache
+G:\Университет\3 курс\2 семестър\TSPProject\VideoShop\VideoShop\obj\Debug\VideoShop.exe
+G:\Университет\3 курс\2 семестър\TSPProject\VideoShop\VideoShop\obj\Debug\VideoShop.pdb
+G:\Университет\3 курс\2 семестър\TSPProject\VideoShop\VideoShop\obj\Debug\VideoShop.MainMenu.resources
+G:\Университет\3 курс\2 семестър\TSPProject\VideoShop\VideoShop\obj\Debug\VideoShop.OptionsMenuFilms.resources
+G:\Университет\3 курс\2 семестър\TSPProject\VideoShop\VideoShop\obj\Debug\VideoShop.Forms.FilterForm.resources
